@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nessa0001
 - 👀 I’m interested in machine learning, AI, and cryptography
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on endr, a chat application / browser site
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on Boom!, a mana based virtual card game with an AI to play against.
 - 📫 You can reach me at nessa#0556 on discord!
 
 <!---
